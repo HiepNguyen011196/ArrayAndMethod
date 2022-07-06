@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="63ed672f-268c-4f92-b34c-e6f26c160b15" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ConvertTemperature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FindMinimum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +44,7 @@
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.FindMaxElement">
+  <component name="RunManager" selected="Application.FindMinimum">
     <configuration name="FindElementInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FindElementInArray" />
       <module name="ArrayAndMethod" />
@@ -54,6 +54,13 @@
     </configuration>
     <configuration name="FindMaxElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FindMaxElement" />
+      <module name="ArrayAndMethod" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindMinimum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindMinimum" />
       <module name="ArrayAndMethod" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,6 +82,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindMinimum" />
         <item itemvalue="Application.FindMaxElement" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.FindElementInArray" />
@@ -90,7 +98,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657117577322</updated>
-      <workItem from="1657117578774" duration="5434000" />
+      <workItem from="1657117578774" duration="6039000" />
     </task>
     <servers />
   </component>
