@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="63ed672f-268c-4f92-b34c-e6f26c160b15" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayAndMethod.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FindElementInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +43,14 @@
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.FindElementInArray">
+    <configuration name="FindElementInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindElementInArray" />
+      <module name="ArrayAndMethod" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ReverseArray" />
       <module name="ArrayAndMethod" />
@@ -58,6 +60,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindElementInArray" />
         <item itemvalue="Application.ReverseArray" />
       </list>
     </recent_temporary>
@@ -70,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657117577322</updated>
-      <workItem from="1657117578774" duration="1412000" />
+      <workItem from="1657117578774" duration="2342000" />
     </task>
     <servers />
   </component>
