@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="63ed672f-268c-4f92-b34c-e6f26c160b15" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FindMaxElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConvertTemperature.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ReverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReverseArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +90,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657117577322</updated>
-      <workItem from="1657117578774" duration="4484000" />
+      <workItem from="1657117578774" duration="5434000" />
     </task>
     <servers />
   </component>
