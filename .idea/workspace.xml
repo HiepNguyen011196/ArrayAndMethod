@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="63ed672f-268c-4f92-b34c-e6f26c160b15" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BaiTap2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaiTap3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaiTap1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaiTap1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +44,7 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.BaiTap2">
+  <component name="RunManager" selected="Application.BaiTap3">
     <configuration name="BaiTap1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BaiTap1" />
       <module name="ArrayAndMethod" />
@@ -55,6 +54,13 @@
     </configuration>
     <configuration name="BaiTap2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BaiTap2" />
+      <module name="ArrayAndMethod" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BaiTap3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaiTap3" />
       <module name="ArrayAndMethod" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,20 +80,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test" />
-      <module name="ArrayAndMethod" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BaiTap3" />
         <item itemvalue="Application.BaiTap2" />
         <item itemvalue="Application.BaiTap1" />
         <item itemvalue="Application.FindMinimum" />
         <item itemvalue="Application.FindMaxElement" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -100,7 +99,7 @@
       <option name="presentableId" value="Default" />
       <updated>1657117577322</updated>
       <workItem from="1657117578774" duration="6039000" />
-      <workItem from="1657164267376" duration="3467000" />
+      <workItem from="1657164267376" duration="8349000" />
     </task>
     <servers />
   </component>
