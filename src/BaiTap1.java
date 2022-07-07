@@ -17,7 +17,7 @@ public class BaiTap1 {
                 for (; index < arr.length - 1; index++) {
                     int middle = arr[index];
                     arr[index] = arr[index + 1];
-                    arr[arr.length -1] = 0;
+                    arr[arr.length - 1] = 0;
                 }
                 System.out.println(Arrays.toString(arr));
             }
@@ -25,6 +25,5 @@ public class BaiTap1 {
         if (!isExist) {
             System.out.println(input_number + " is not in the array");
         }
-
     }
 }
